@@ -1,8 +1,0 @@
-include 'core'
-include 'tingeltangel-gui'
-include 'tingeltangel-manager'
-include 'tingeltangel-cli'
-include 'tingeltangel-andersicht'
-
-rootProject.name = 'tingeltangel-root'
-
